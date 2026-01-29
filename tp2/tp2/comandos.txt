@@ -1,0 +1,4 @@
+agregar_archivo vuelos1.csv
+agregar_archivo vuelos2.csv
+prioridad_vuelos 10
+siguiente_vuelo PDX SEA 2010-04-10T23:22:55
