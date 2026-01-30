@@ -24,6 +24,3 @@ Sistema de consultas para una aerolínea utilizando grafos. Permite encontrar ca
 
 ---
 Para más detalles sobre cómo ejecutar cada trabajo práctico, por favor consulte el `README.md` dentro de cada carpeta.
-=======
-# Tp-s-Algoritmos-y-Estructuras-de-Datos
-Contiene los trabajos prácticos realizados para la materia Algoritmos y Estructuras de Datos.
